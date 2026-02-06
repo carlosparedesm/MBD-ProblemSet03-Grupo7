@@ -1,6 +1,9 @@
 # Problem Set 03: Forecasting y Pricing
 **Magíster en Business Analytics - Universidad Diego Portales**
 
+**Curso:** MARKETING Y ANALÍTICA DEL RETAIL   
+**Profesor:** Gonzalo Oyandel
+
 **Grupo:** 7
 **Integrantes:**
 - Carlos Paredes
