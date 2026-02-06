@@ -16,6 +16,7 @@ Este repositorio contiene la solución al Problem Set 03.
 
 - `pregunta_4.py`: Pipeline de forecasting usando MLForecast (M5 Dataset).
 - `pregunta_5.py`: Estimación de elasticidad precio (Online Retail II).
+- `pregunta_6.py`: Pricing Dinámico y Discriminación de Precios
 - `pregunta_7.py`: Modelo predictivo de precios de propiedades.
 - `requirements.txt`: Librerías necesarias para ejecutar los scripts.
 - `Grupo_7_PS03Q07.xlsx`: Archivo de predicciones para la competencia (Pregunta 7).
