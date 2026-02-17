@@ -5,6 +5,7 @@
 **Profesor:** Gonzalo Oyandel
 
 **Grupo:** 7
+
 **Integrantes:**
 - Carlos Paredes
 - Daniel Fuentes
